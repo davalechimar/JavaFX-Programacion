@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/application/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/model/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/resources/co/edu/uniquindio/programacion/almacen/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="prueba" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +35,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "Merging BrayanSaa",
-    "last_opened_file_path": "D:/openjfx-21.0.2_windows-x64_bin-sdk/javafx-sdk-21.0.2/lib/javafx.web.jar",
+    "git-widget-placeholder": "BrayanSaa",
+    "last_opened_file_path": "D:/Proyectos/JavaFX-Programacion",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,8 +57,17 @@
       <option name="presentableId" value="Default" />
       <updated>1708211949813</updated>
       <workItem from="1708211951026" duration="946000" />
-      <workItem from="1708212917829" duration="407000" />
+      <workItem from="1708212917829" duration="740000" />
     </task>
+    <task id="LOCAL-00001" summary="prueba">
+      <option name="closed" value="true" />
+      <created>1708213639835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708213639835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +84,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/AlexisChica" />
+                        <option value="BrayanSaa" />
                       </list>
                     </value>
                   </entry>
@@ -106,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
   </component>
 </project>
