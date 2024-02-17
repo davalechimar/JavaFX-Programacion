@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="" />
+    <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/application/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/model/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/resources/co/edu/uniquindio/programacion/almacen/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "Merging BrayanSaa",
     "last_opened_file_path": "D:/openjfx-21.0.2_windows-x64_bin-sdk/javafx-sdk-21.0.2/lib/javafx.web.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708211949813</updated>
       <workItem from="1708211951026" duration="946000" />
+      <workItem from="1708212917829" duration="407000" />
     </task>
     <servers />
   </component>
@@ -73,7 +95,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/AlexisChica" />
                       </list>
                     </value>
                   </entry>
