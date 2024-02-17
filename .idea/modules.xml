@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Almacen/Almacen.iml" filepath="$PROJECT_DIR$/Almacen/Almacen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" filepath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" />
     </modules>
   </component>
