@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="377.0" prefWidth="524.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorVentas">
+    <VBox alignment="CENTER" prefHeight="400.0" prefWidth="276.0" spacing="20">
+        <Label style="-fx-font-size: 18px;" text="Registro de pujas" />
+
+        <TextField fx:id="codigoField" promptText="Código" />
+        <DatePicker fx:id="fechaPicker" prefHeight="26.0" prefWidth="276.0" promptText="Fecha" />
+        <TextField fx:id="totalField" promptText="Total" />
+        <TextField fx:id="ivaField" promptText="IVA" />
+
+        <Button onAction="#registrarVenta" text="Registrar puja" />
+        <Button fx:id="bttVolver" mnemonicParsing="false" onMouseClicked="#volver" text="Volver" />
+    </VBox>
+
+    <TableView fx:id="tablaDetalleVentas" layoutX="276.0" layoutY="56.0" prefHeight="348.0" prefWidth="276.0">
+        <columns>
+            <TableColumn fx:id="cantidadColumn" text="Cantidad" />
+            <TableColumn fx:id="subtotalColumn" text="Subtotal" />
+            <TableColumn fx:id="productoColumn" prefWidth="114.39996337890625" text="Producto pujado" />
+        </columns>
+    </TableView>
+    <Label layoutX="354.0" layoutY="14.0" style="-fx-font-size: 18px;" text="Detalle pujas" />
+</AnchorPane>

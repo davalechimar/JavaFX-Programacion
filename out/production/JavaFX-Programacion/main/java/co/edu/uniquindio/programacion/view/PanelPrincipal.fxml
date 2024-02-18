@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorPanelPrincipal">
+
+    <StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="438.0" prefWidth="690.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+        <children>
+
+            <AnchorPane fx:id="main_form" prefHeight="438.0" prefWidth="330.0">
+
+                <children>
+                    <AnchorPane fx:id="admin_form" prefHeight="438.0" prefWidth="342.0" styleClass="letf-form" stylesheets="@../loginDesign.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <children>
+                            <Label fx:id="lblAlmacen" layoutX="97.0" layoutY="227.0" text="Almacen UQ">
+                                <font>
+                                    <Font name="Tahoma" size="24.0" />
+                                </font>
+                            </Label>
+                            <ImageView fx:id="imgAlmacen" fitHeight="150.0" fitWidth="200.0" layoutX="96.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
+                                <image>
+                                    <Image url="@../../../../../../resources/almacen.png" />
+                                </image>
+                            </ImageView>
+
+                        </children>
+                    </AnchorPane>
+                    <AnchorPane layoutX="345.0" layoutY="5.0" prefHeight="438.0" prefWidth="342.0" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <children>
+
+                            <Label layoutX="106.0" layoutY="162.0" text="Ingreso Admin">
+                                <font>
+                                    <Font name="Bookman Old Style" size="18.0" />
+                                </font>
+                            </Label>
+                            <TextField fx:id="admin_username" layoutX="69.0" layoutY="204.0" prefHeight="30.0" prefWidth="220.0" promptText="Usuario" />
+                            <PasswordField fx:id="admin_password" layoutX="67.0" layoutY="256.0" prefHeight="30.0" prefWidth="220.0" promptText="Contraseña" />
+                            <Button fx:id="admin_loginBtn" layoutX="138.0" layoutY="318.0" mnemonicParsing="false" onKeyPressed="#iniciarSesionBtt" onMouseClicked="#iniciarSesion" prefHeight="50.0" prefWidth="78.0" text="Ingresar" />
+                            <Button fx:id="BttCerrar" layoutX="233.0" layoutY="11.0" mnemonicParsing="false" onMouseClicked="#cerrar" prefHeight="30.0" prefWidth="101.0" text="Cerrar" />
+                            <ImageView fx:id="imgAdmin" fitHeight="116.0" fitWidth="118.0" layoutX="112.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
+                                <image>
+                                    <Image url="@../../../../../../resources/imagen_2.jpg" />
+                                </image>
+                            </ImageView>
+                        </children>
+                    </AnchorPane>
+                </children>
+            </AnchorPane>
+        </children>
+    </StackPane>
+</VBox>

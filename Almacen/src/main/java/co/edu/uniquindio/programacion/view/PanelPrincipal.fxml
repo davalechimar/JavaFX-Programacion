@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorPanelPrincipal">
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.programacion.controller.ControladorPanelPrincipal">
 
     <StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="438.0" prefWidth="690.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
         <children>
@@ -27,7 +27,7 @@
                             </Label>
                             <ImageView fx:id="imgAlmacen" fitHeight="150.0" fitWidth="200.0" layoutX="96.0" layoutY="69.0" pickOnBounds="true" preserveRatio="true">
                                 <image>
-                                    <Image url="@../../../../../../resources/almacen.png" />
+                                    <Image url="@../resources/almacen.png" />
                                 </image>
                             </ImageView>
 
@@ -47,7 +47,7 @@
                             <Button fx:id="BttCerrar" layoutX="233.0" layoutY="11.0" mnemonicParsing="false" onMouseClicked="#cerrar" prefHeight="30.0" prefWidth="101.0" text="Cerrar" />
                             <ImageView fx:id="imgAdmin" fitHeight="116.0" fitWidth="118.0" layoutX="112.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
                                 <image>
-                                    <Image url="@../../../../../../resources/imagen_2.jpg" />
+                                    <Image url="@../resources/imagen_2.jpg" />
                                 </image>
                             </ImageView>
                         </children>

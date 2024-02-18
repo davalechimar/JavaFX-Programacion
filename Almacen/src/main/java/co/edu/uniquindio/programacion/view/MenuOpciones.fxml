@@ -8,13 +8,13 @@
 <?import javafx.scene.text.Font?>
 
 
-<AnchorPane fx:id="panelPrincipal" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorMenuOpciones">
+<AnchorPane fx:id="panelPrincipal" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.programacion.controller.ControladorMenuOpciones">
     <children>
         <AnchorPane fx:id="panelIzquierda" prefHeight="400.0" prefWidth="300.0" styleClass="letf-form" stylesheets="@../loginDesign.css">
             <children>
                 <ImageView fx:id="imagenAlmacenUQ" fitHeight="150.0" fitWidth="200.0" layoutX="75.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../../../../../../resources/almacen.png" />
+                        <Image url="@../resources/almacen.png" />
                     </image>
                 </ImageView>
                 <Label fx:id="label1" layoutX="85.0" layoutY="217.0" text="Almacen UQ">
@@ -30,7 +30,7 @@
                 <Button fx:id="botonCerrar" layoutX="204.0" layoutY="14.0" mnemonicParsing="false" onMouseClicked="#salir" prefHeight="25.0" prefWidth="82.0" text="Cerrar" />
                 <ImageView fx:id="imagenCarritoCompra" fitHeight="78.0" fitWidth="82.0" layoutX="102.0" layoutY="39.0" onMouseClicked="#abrirPanelProductos" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../../../../../../resources/carritoCompras.png" />
+                        <Image url="@../resources/carritoCompras.png" />
                     </image>
                 </ImageView>
                 <Label layoutX="96.0" layoutY="123.0" onMouseClicked="#abrirPanelProductos" text="Registro productos">
@@ -40,7 +40,7 @@
                 </Label>
                 <ImageView fx:id="imagenLibro" fitHeight="78.0" fitWidth="78.0" layoutX="111.0" layoutY="154.0" onMouseClicked="#abrirPanelVentas" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../../../../../../resources/libroContabilidad.png" />
+                        <Image url="@../resources/libroContabilidad.png" />
                     </image>
                 </ImageView>
                 <Label fx:id="LabelVentas" layoutX="106.0" layoutY="239.0" onMouseClicked="#abrirPanelVentas" text="Registro ventas">
@@ -50,7 +50,7 @@
                 </Label>
                 <ImageView fx:id="imagenPersonas" fitHeight="78.0" fitWidth="89.0" layoutX="111.0" layoutY="266.0" onMouseClicked="#abrirPanelClientes" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../../../../../../resources/imagenPersonas.png" />
+                        <Image url="@../resources/imagenPersonas.png" />
                     </image>
                 </ImageView>
                 <Label fx:id="labelPersonas" layoutX="107.0" layoutY="344.0" onMouseClicked="#abrirPanelClientes" text="Registro clientes" />

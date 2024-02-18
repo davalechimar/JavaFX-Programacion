@@ -1,0 +1,11 @@
+.letf-form {
+    -fx-background-color: linear-gradient(to top right, #5a4543, #96412e);
+    -fx-border-color: #000;
+    -fx-border-width: .4px 0px .4px .4px; /* LADO IZQUIERDO DEL PANEL */
+}
+
+.rigth-form{
+    -fx-background-color:#fff;
+    -fx-border-color:#000;
+    -fx-border-width:.4px .4px .4px 0px;
+}

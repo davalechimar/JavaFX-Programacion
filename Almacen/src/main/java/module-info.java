@@ -1,10 +1,9 @@
-module co.edu.uniquindio.programacion.almacen {
+module Almacen{
     requires javafx.controls;
     requires javafx.fxml;
-
+    requires javafx.graphics;
     requires org.controlsfx.controls;
-    requires org.kordamp.bootstrapfx.core;
+    requires java.desktop;
+    exports co.edu.uniquindio.programacion.aplicacion;
 
-    opens co.edu.uniquindio.programacion.almacen to javafx.fxml;
-    exports co.edu.uniquindio.programacion.almacen;
 }

@@ -1,4 +1,4 @@
-package main.java.co.edu.uniquindio.programacion.controller;
+package co.edu.uniquindio.programacion.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -10,7 +10,7 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
-import main.java.co.edu.uniquindio.programacion.aplicacion.aplicacion;
+import co.edu.uniquindio.programacion.aplicacion.aplicacion;
 
 public class ControladorPanelPrincipal {
     public static ControladorPanelPrincipal instanciaPanelPrincipal;

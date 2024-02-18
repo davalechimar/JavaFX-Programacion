@@ -5,17 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="prueba">
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/MenuOpciones.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/PanelPrincipal.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Productos.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/RegistroClientes.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Ventas.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/loginDesign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/resources/almacen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/resources/carritoCompras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/resources/imagenPersonas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/resources/imagen_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/resources/libroContabilidad.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/aplicacion/aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/aplicacion/aplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorClientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorClientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorMenuOpciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorMenuOpciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorPanelPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorPanelPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorProductos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorProductos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorVentas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/ControladorVentas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/model/prueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/MenuOpciones.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/MenuOpciones.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/PanelPrincipal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/PanelPrincipal.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Productos.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Productos.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/RegistroClientes.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/RegistroClientes.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Ventas.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Ventas.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/prueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Almacen/src/main/resources/co/edu/uniquindio/programacion/almacen/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +74,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2cW0IXuHRK0zbc4Rpdr9gUv2R6D" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,19 +97,25 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "JeffersonBedoyaArenas",
-    "last_opened_file_path": "C:/Users/Jefferson/javafx-sdk-21.0.2/lib/javafx.web.jar",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_directory_selection": "D:/Proyectos/JavaFX-Programacion/Almacen/src/main/java/co/edu/uniquindio/programacion",
+    "last_opened_file_path": "D:/Proyectos/JavaFX-Programacion/Almacen/src/main/java/co/edu/uniquindio/programacion",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "project.structure.side.proportion": "0.19425288",
+    "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Proyectos\JavaFX-Programacion\Almacen\src\main\java\co\edu\uniquindio\programacion" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Proyectos\JavaFX-Programacion\Almacen\src\main\java\co\edu\uniquindio\programacion" />
       <recent name="D:\Proyectos\JavaFX-Programacion\Almacen\src\main\java\co\edu\uniquindio" />
@@ -159,5 +189,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba" />
     <option name="LAST_COMMIT_MESSAGE" value="prueba" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

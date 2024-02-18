@@ -4,7 +4,7 @@
 <?import javafx.scene.control.cell.*?>
 <?import javafx.scene.layout.*?>
 
-<VBox alignment="CENTER" prefHeight="774.0" prefWidth="869.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorClientes">
+<VBox alignment="CENTER" prefHeight="774.0" prefWidth="869.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.programacion.controller.ControladorClientes">
 
     <AnchorPane prefHeight="600.0" prefWidth="800.0">
         <children>

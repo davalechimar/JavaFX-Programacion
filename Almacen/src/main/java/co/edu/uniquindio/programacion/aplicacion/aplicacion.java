@@ -1,4 +1,4 @@
-package main.java.co.edu.uniquindio.programacion.aplicacion;
+package co.edu.uniquindio.programacion.aplicacion;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -8,10 +8,11 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-import static main.java.co.edu.uniquindio.programacion.controller.ControladorClientes.instanciaClientes;
-import static main.java.co.edu.uniquindio.programacion.controller.ControladorMenuOpciones.instanciaPrincipal;
-import static main.java.co.edu.uniquindio.programacion.controller.ControladorPanelPrincipal.instanciaPanelPrincipal;
-import static main.java.co.edu.uniquindio.programacion.controller.ControladorProductos.instanciaProductos;
+
+import static co.edu.uniquindio.programacion.controller.ControladorClientes.instanciaClientes;
+import static co.edu.uniquindio.programacion.controller.ControladorMenuOpciones.instanciaPrincipal;
+import static co.edu.uniquindio.programacion.controller.ControladorPanelPrincipal.instanciaPanelPrincipal;
+import static co.edu.uniquindio.programacion.controller.ControladorProductos.instanciaProductos;
 
 public class aplicacion extends Application {
 

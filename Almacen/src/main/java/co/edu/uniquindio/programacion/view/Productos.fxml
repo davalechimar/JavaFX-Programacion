@@ -16,7 +16,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" prefHeight="646.0" prefWidth="1064.0" spacing="20" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.co.edu.uniquindio.programacion.controller.ControladorProductos">
+<VBox alignment="CENTER" prefHeight="646.0" prefWidth="1064.0" spacing="20" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.programacion.controller.ControladorProductos">
     <AnchorPane prefHeight="42.0" prefWidth="378.0">
         <children>
             <Label layoutX="113.0" layoutY="7.0" text="Registro de productos">

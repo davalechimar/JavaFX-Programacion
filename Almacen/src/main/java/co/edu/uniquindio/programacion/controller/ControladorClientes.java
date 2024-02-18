@@ -1,4 +1,4 @@
-package main.java.co.edu.uniquindio.programacion.controller;
+package co.edu.uniquindio.programacion.controller;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -7,8 +7,8 @@ import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.input.MouseEvent;
-import main.java.co.edu.uniquindio.programacion.aplicacion.aplicacion;
-import main.java.co.edu.uniquindio.programacion.model.Cliente;
+import co.edu.uniquindio.programacion.aplicacion.aplicacion;
+import co.edu.uniquindio.programacion.model.Cliente;
 
 
 public class ControladorClientes {
@@ -240,3 +240,4 @@ public class ControladorClientes {
 }
 
 // ... otros métodos ...
+
