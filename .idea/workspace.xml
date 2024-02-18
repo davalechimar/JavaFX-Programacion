@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f95125b-79a9-442a-975c-9f3319a1986a" name="Changes" comment="prueba">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/MenuOpciones.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/PanelPrincipal.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Productos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/RegistroClientes.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/view/Ventas.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaFX-Programacion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_02_2024_6_34_p__m___Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Almacen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Almacen/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/application/prueba.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Almacen/src/main/java/co/edu/uniquindio/programacion/controller/prueba.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -36,11 +38,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -56,6 +58,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cW0IXuHRK0zbc4Rpdr9gUv2R6D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,8 +72,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "BrayanSaa",
-    "last_opened_file_path": "D:/openjfx-21.0.2_windows-x64_bin-sdk/javafx-sdk-21.0.2/lib/javafx.web.jar",
+    "git-widget-placeholder": "JeffersonBedoyaArenas",
+    "last_opened_file_path": "C:/Users/Jefferson/javafx-sdk-21.0.2/lib/javafx.web.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
