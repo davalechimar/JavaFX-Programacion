@@ -9,5 +9,8 @@
         <module name="Almacen" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Almacen" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
